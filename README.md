@@ -68,6 +68,7 @@ El dashboard principal permite la interacción por filtros:
 - Filtro por **año** y **mes**
 - Exploración detallada por mapa y gráficos de barra
 
+<img src="Imagenes/dashboard.png" alt="Dashboard COVID-19 África" width="700">
 ---
 
 ## 📈 Principales Insights
@@ -85,19 +86,19 @@ El dashboard principal permite la interacción por filtros:
 A continuación se muestran algunas vistas incluidas en el dashboard:
 
 ### Vista por América
-![Dashboard América](imagenes/dashboard_america.png)
+<img src="Imagenes/america.png" alt="Dashboard COVID-19 África" width="700">
 
 ### Vista por Europa
-![Dashboard Europa](imagenes/dashboard_europa.png)
+<img src="Imagenes/europa.png" alt="Dashboard COVID-19 África" width="700">
 
 ### Vista por Asia
-![Dashboard Asia](imagenes/dashboard_asia.png)
+<img src="Imagenes/asia.png" alt="Dashboard COVID-19 África" width="700">
 
 ### Vista por África
-![Dashboard África](imagenes/dashboard_africa.png)
+<img src="Imagenes/africa.png" alt="Dashboard COVID-19 África" width="700">
 
 ### Vista por Oceanía
-![Dashboard Oceanía](imagenes/dashboard_oceania.png)
+<img src="Imagenes/oceania.png" alt="Dashboard COVID-19 África" width="700">
 
 > Las imágenes pueden encontrarse en la carpeta `/imagenes/` del repositorio.
 
